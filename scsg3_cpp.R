@@ -1,4 +1,4 @@
-scsg3_cpp_code = '
+scsg3_cpp_code <- '
 #include <Rcpp.h>
 using namespace Rcpp;
 #include <bits/stdc++.h>
