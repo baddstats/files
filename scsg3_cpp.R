@@ -205,7 +205,6 @@ std::list<std::list<std::vector<bool>>> scsg3_cpp(List nn,
 
   // loop over desired indices
   for (i = 0; i < nidx; i++) {
-    p.increment();
     clevel = 1;
     // get current nn
     cnn = nn[idx[i] - 1];
